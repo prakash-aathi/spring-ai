@@ -1,6 +1,6 @@
-package com.practice.spring_ai.controller;
+package com.practice.spring_ai.structureOutput.controller;
 
-import com.practice.spring_ai.modal.QuizQuestions;
+import com.practice.spring_ai.structureOutput.modal.QuizQuestions;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.converter.ListOutputConverter;
 import org.springframework.core.ParameterizedTypeReference;

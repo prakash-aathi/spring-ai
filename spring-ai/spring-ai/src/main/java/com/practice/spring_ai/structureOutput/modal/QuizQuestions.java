@@ -1,4 +1,4 @@
-package com.practice.spring_ai.modal;
+package com.practice.spring_ai.structureOutput.modal;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
