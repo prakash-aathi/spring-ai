@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-ai
+
+  ai:
+    mistralai:
+      api-key: ${MISTRAL_AI_API_KEY}
+      chat:
+        options:
+          model: open-mixtral-8x22b
+          max-tokens: 50
+          temperature: 0.5
+    retry:
+      max-attempts: 1
