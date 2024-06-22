@@ -49,7 +49,7 @@ curl --location 'http://localhost:8080/api/v1/parsing/upload' \
             "description": "Developed a built-in JSON plugin that converts OpenAI text into the JSON format for an open-source project called EdgeChain, using spring-boot. Acquired skills in spring boot, Jsonnet, JUnit, Mockito during the internship at Arakoo.ai."
         },
         {
-            "organizationName": "Virtusa",
+            "organizationName": "MNC",
             "role": "Java full stack Developer Intern",
             "description": "Developed REST APIs using Spring Boot, enabling communication between the front-end and back-end. Implemented authentication and authorization functionality using Spring Security."
         },
