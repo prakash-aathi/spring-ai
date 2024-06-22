@@ -1,0 +1,75 @@
+Prakash A Location: Chennai, Tamil Nadu, India
+portfolio | LinkedIn | GitHub | Hacker rank Email: prakasha@gmail.com | Mobile: 9342175722
+SOFTWARE ENGINEER
+I am a highly skilled web developer with expertise in JavaScript, Java, and Python . I am well-versed in popular frameworks
+such as React.js and Spring Boot . My experience includes working on personal projects that involved REST APIs and MVC
+frameworks . With a strong command of these technologies, I am equipped to deliver exceptional web development
+solutions.
+TECHNICAL SKILLS
+Languages : Java, JavaScript, Python, HTML, CSS, Typescript
+Frameworks : React.js, spring boot, flask
+Libraries : Hibernate, Spring Security, spring cloud, Tailwind CSS, Boot strap, swagger, redux
+Databases : MongoDB, MySQL, Firebase
+Dev Tools : Visual Studio Code, IntelliJ IDEA, Git & Github, postman
+EXPERIENCE
+Backend Developer Intern July 2023 – Aug 2023
+Arakoo.ai Remote
+• Developed a built-in JSON plugin that converts OpenAI text into the JSON format for an open-source project called
+EdgeChain, using spring-boot.
+• Acquired skills in spring boot, Jsonnet, JUnit, Mockito during the internship at Arakoo.ai.
+Java full stack Developer Intern Dec 2022 – July 2023
+MNC Remote
+• Developed REST APIs using Spring Boot, enabling communication between the front-end and back-end
+• Implemented authentication and authorization functionality using Spring Security
+JavaScript Coding Intern Aug 2021 – Sep 2021
+Suven Consultants and Technology Pvt. Ltd. Remote
+• Completed one month internship focused on JavaScript development
+• Developed the following projects during the internship:
+EDUCATION
+Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College Avadi, Tamil Nadu, India
+Bachelor of Engineering in Electronics and Communication Engineering Aug 2019 – May 2023
+PROJECTS
+College-Student Connect Web app Spring-boot, React js, MySql, tailwind css Source Code
+• Developed a web application connecting colleges and students with admin and user sides .
+• On the admin side, functionalities included adding, viewing, updating, and deleting institutes and courses.
+• The user side allowed users to browse institute details and apply for courses by providing their personal information.
+• The admin was responsible for passing student data to colleges and updating the application status.
+• Implemented JWT authentication and role-based authorization for secure access.
+• Utilized AOP logger, generic error handling, and validation for robust backend functionality.
+• Designed and interconnected tables using JPA for efficient database management.
+• Added Swagger API documentation for easy testing and documentation.
+• Utilized React with Redux for frontend development, creating reusable components for building pages.
+Health Monitoring Web app React.js, Tailwind css, Firebase-auth, Firbase-Firestore, Github Source Code
+• Developed a web application for a hospital reusable mask with integrated health monitoring biosensors, including
+RTD, pulse oximeter, and MQ-135 gas sensor.
+• Implemented the software component using React, incorporating React routers, redux, states, and hooks for a
+user-friendly interface.
+• Integrated Firebase authentication and session management for secure access to user data.
+• Utilized Animation on Scroll (AOS), Framer Motion, and Swiper.js libraries to enhance the landing page with
+captivating animations, smooth transitions, and an engaging carousel effect.
+• Enabled real-time health monitoring with instant alerts sent to the user and their email in case of abnormal health
+parameters using email.js/browser
+• Deployed the application on GitHub Host, enabling easy collaboration and further development.
+Job recommender Web app TailwindCSS, JavaScript, Flask, RapidAPI, Firebase, Railway Source Code
+• Implemented a skill recommendation solution utilizing RapidAPI to assist both fresher and skilled individuals in
+finding their dream jobs. The system queries job opportunities based on users’ skills, providing personalized Jobs
+• Created a seamless job search experience for users by allowing them to easily create a profile and find job
+opportunities based on their skill set.
+• Implemented advanced filtering and querying mechanisms based on location and skills, allowing users to refine
+their job search based on specific criteria.
+• Deployed the Skill/Job Recommender Application on Railway.
+ChatGPT JSON Format Plugin Spring boot, react js, TypeScript, tailwind css Source Code
+• Developed a plugin to enhance communication with ChatGPT, ensuring responses in valid JSON format.
+• Implemented two main strategies: prompts and function calls, allowing different approaches for interaction.
+• Ensured JSON response format through repeated communication attempts with ChatGPT.
+CERTIfiCATIONS
+• Oracle Certified Associate, Java SE 8 Programmer
+• Certified in Java 8 from Educaba organization
+• Completed the Full Stack Open course from the University of Helsinki with a grade of 4, gaining expertise in React,
+Redux, and MongoDB.
+• Certified inReact and Redux from Sololearn
+ACHIVEMENTS
+• I achieved the 6th rank in the coding challenge during the BUGTRONS 2.0 competition organized by the Prepinsta
+community in 2022.
+• Got Second Place in ‘ST.PETER’S SCIENCE EXPO’ Organized by St.Peter’s Institute of Higher Education Research -
+Done on ‘Vehicle to Vehicle Communication Using LI-F

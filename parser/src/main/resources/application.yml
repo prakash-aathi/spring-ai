@@ -7,8 +7,19 @@ spring:
       api-key: ${MISTRAL_AI_API_KEY}
       chat:
         options:
-          model: open-mixtral-8x22b
-          max-tokens: 50
-          temperature: 0.5
-    retry:
-      max-attempts: 1
+          model: mistral-large-2402
+          temperature: 1
+
+
+logging:
+  level:
+    org:
+      springframework:
+        ai:
+          converter:
+            BeanOutputConverter: DEBUG
+    com:
+      practice:
+        parser:
+          controller:
+            ParserController: DEBUG
